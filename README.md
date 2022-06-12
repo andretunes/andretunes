@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @andretunes
+- 👋 Hi, my name is André Antunes!
+- 💕 I'm from Portugal.
 - 👀 I'm Fullstack Developer. Most works with PHP, WHMCS and Node.js.
 - 🌱 I’m currently learning Nursing.
 - 📫 You can contact me though Discord ([Andrezzz#9415](https://www.andrezzz.pt/discord)) or though E-mail ([andreantunes@andrezzz.pt](mailto:andreantunes@andrezzz.pt)).
