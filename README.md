@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Nursing.
 - 📫 You can contact me though Discord ([Andrezzz#9415](https://www.andrezzz.pt/discord)) or though E-mail ([andreantunes@andrezzz.pt](mailto:andreantunes@andrezzz.pt)).
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/andrezzz){:target="_blank"}
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/andrezzz)
