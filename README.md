@@ -12,21 +12,54 @@ I enjoy creating robust architectures, optimising processes, and turning complex
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 IT Skills
 
-- **Backend:** PHP, Node.js  
-- **Frontend:** JavaScript  
-- **Platforms & Tools:** WHMCS, REST APIs  
-- **Databases:** MySQL  
-- **Other:** Automation, System Integrations  
+### 💻 Software Development
+- **Full-Stack Development** (backend-focused)
+- **Backend:** PHP, Node.js
+- **Frontend:** React.js, React Native, Vue.js
+
+### 🗄️ Database & Data
+- SQL (advanced queries, performance optimisation)
+
+### 🔌 API & Integrations
+- REST APIs
+- Web Services (SOAP)
+- System Integrations
+
+### 🏭 ERP & Business Systems
+- Sage X3  
+  - 4GL basics  
+  - End-to-end Manufacturing & Distribution processes  
+  - SOAP integrations  
+
+### 🌐 CMS & Web Platforms
+- WHMCS
+- WordPress
+
+### 🖥️ Operating Systems
+- Windows
+- Linux
+- iOS
+
+### 🛠️ IT Management & Tools
+- GLPI
+- Snipe-IT
+
+### ⚙️ DevOps & Infrastructure
+- Server management
+- Deployments
+- Troubleshooting
+- Infrastructure maintenance
 
 ---
 
 ## 📬 Contact Me
 
-- 💬 Discord: [@andretunes](https://www.andrezzz.pt/discord)  
 - 📧 Email: [andreantunes@andrezzz.pt](mailto:andreantunes@andrezzz.pt)  
 - 🌐 Website: [andrezzz.pt](https://www.andrezzz.pt)
+- 💬 Discord: [@andretunes](https://www.andrezzz.pt/discord)
+- 📱 WhatsApp: [+351 937 437 157](https://wa.me/351937437157)
 
 ---
 
