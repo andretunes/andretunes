@@ -16,8 +16,8 @@ I enjoy creating robust architectures, optimising processes, and turning complex
 
 ### 💻 Software Development
 - **Full-Stack Development** (backend-focused)
-- **Backend:** PHP, Node.js
-- **Frontend:** React.js, React Native, Vue.js
+  - **Backend:** PHP, Node.js
+  - **Frontend:** React.js, React Native, Vue.js
 
 ### 🗄️ Database & Data
 - SQL (advanced queries, performance optimisation)
